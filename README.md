@@ -2,7 +2,7 @@
 
 1. Fork this repository
 2. Mark your column as complete with a :white_check_mark:
-3. Notify your coach that you're ready for them to check off your homework by mentioning them in a new issue, as described in [this repo](https://github.com/janke-learning/pull-requesting).
+3. Notify your partner that you're ready for them to check off your homework by mentioning them in a new issue, as described in [this repo](https://github.com/janke-learning/pull-requesting).
 4. Accept their pull request & feedback
 5. Close the issue and move on with your life
 
